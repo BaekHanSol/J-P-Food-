@@ -1,4 +1,4 @@
-# completedProject
+# J&P Food 식당관리시스템
 문제기술서
 헌장
 프로젝트 관리 계획서
